@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F5F5F5;
+    margin: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .chart-container {
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .data-card {
+    width: 100%;
+    max-width: 500px;
+    margin: 10px 0;
+  }
+  
